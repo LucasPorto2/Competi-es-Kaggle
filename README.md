@@ -2,7 +2,7 @@
 
 Este repositório inclui minhas soluções para as seguintes competições:
 
-. Titanic - Machine Learning from Disaster
+.  \textbf{Titanic - Machine Learning from Disaster}
 
 . Spaceship Titanic
 
