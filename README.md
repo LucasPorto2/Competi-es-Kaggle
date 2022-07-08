@@ -1,4 +1,4 @@
-# Kaggle Competitions
+# Portfolio
 
 Este repositório inclui minhas soluções para as seguintes competições:
 
